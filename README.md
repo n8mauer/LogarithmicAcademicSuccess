@@ -37,5 +37,7 @@ Prepare a comprehensive report summarizing the findings, including key insights 
 
 #### Contact and Further Information
 Name: Nate Mauer
+
 Email: n8mauer@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/natemauer/
