@@ -34,3 +34,8 @@ Create visualizations to illustrate the relationships between variables and acad
     
 **Implementation and Further Research:**
 Prepare a comprehensive report summarizing the findings, including key insights and potential recommendations for interventions.Conduct further research to explore additional factors or to validate findings in different educational contexts or datasets.
+
+#### Contact and Further Information
+Name: Nate Mauer
+Email: n8mauer@gmail.com
+LinkedIn: https://www.linkedin.com/in/natemauer/
