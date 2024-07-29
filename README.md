@@ -32,7 +32,7 @@ Upon analysis of the coefficients to understand the relationships, I found that 
 
 ### Outline of project
 
-- [Link to notebook 1]()
+- [notebook](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
 
 ### Next steps
 **Model Validation:**
