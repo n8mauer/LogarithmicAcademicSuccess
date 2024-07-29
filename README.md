@@ -23,7 +23,7 @@ Upon analysis of the coefficients to understand the relationships, I found that 
 #### Outline of project
 
 - [Link to notebook 1]()
-- 
+
 #### Next steps
 **Model Validation:**
 Validate the model using cross-validation techniques to ensure robustness.
