@@ -16,13 +16,15 @@ These trends highlight the complexity of the dropout issue, influenced by econom
 Can an undergraduate student’s academic success be predicted based on several factors using Log-Log or Power-Log relationships?
 
 ### Data Source
-The data can be found here: [https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention] (Kaggle Dataset).
+The data can be found here:[Kaggle Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
 
 The dataset offers an overview of students enrolled in various undergraduate programs at a higher education institution. It encompasses demographic data, socioeconomic factors, and academic performance details, facilitating the analysis of potential predictors of student dropout and academic success. The dataset includes multiple separate databases with pertinent information available at enrollment, such as application mode, marital status, and chosen course. Moreover, it allows for the estimation of overall student performance at the end of each semester by evaluating credited, enrolled, assessed, and approved curricular units along with their respective grades. Additionally, regional economic indicators like unemployment rate, inflation rate, and GDP are included to explore how economic factors influence student dropout rates and academic success. This comprehensive analysis tool provides valuable insights into the factors that motivate students to either persist in their studies or withdraw, across a diverse array of disciplines including agronomy, design, education, nursing, journalism, management, social services, and technologies.
 
 ### Methodology
 **Data Preprocessing**: Applying logarithmic transformations to both dependent and independent variables helps in linearizing multiplicative relationships. For example, doubling study hours may not linearly double academic performance due to diminishing returns.
+
 **Feature Identification and Preparation**: Key factors influencing academic success, such as study hours and attendance, are identified and prepared. Interaction terms are created to capture the combined effects of multiple factors.
+
 **Model Training**: Linear regression models are trained on log-transformed data to understand the elasticities and interaction effects among variables.
 
 ### Results
