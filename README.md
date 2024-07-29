@@ -46,8 +46,8 @@ Create visualizations to illustrate the relationships between variables and acad
 Prepare a comprehensive report summarizing the findings, including key insights and potential recommendations for interventions.Conduct further research to explore additional factors or to validate findings in different educational contexts or datasets.
 
 #### Contact and Further Information
-Name: Nate Mauer
+**Name:** Nate Mauer
 
-Email: n8mauer@gmail.com
+**Email:** n8mauer@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/natemauer/
+**LinkedIn:** https://www.linkedin.com/in/natemauer/
