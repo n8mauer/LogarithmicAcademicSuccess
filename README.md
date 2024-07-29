@@ -29,7 +29,7 @@ What suggestions do you have for next steps?
 - [Link to notebook 1]()
 
 
-##### Contact and Further Information
+#### Further Information
 **Model Validation:**
 Validate the model using cross-validation techniques to ensure robustness.
 Compare the performance of the log-log model with other models, such as polynomial regression or non-linear models.
