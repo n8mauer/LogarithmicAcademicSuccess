@@ -30,12 +30,12 @@ What suggestions do you have for next steps?
 
 
 ##### Contact and Further Information
-Model Validation:
+**Model Validation:**
 Validate the model using cross-validation techniques to ensure robustness.
 Compare the performance of the log-log model with other models, such as polynomial regression or non-linear models.
 
-Reporting and Visualization:
+**Reporting and Visualization:**
 Create visualizations to illustrate the relationships between variables and academic success.
     
-Implementation and Further Research:
+**Implementation and Further Research:**
 Prepare a comprehensive report summarizing the findings, including key insights and potential recommendations for interventions.Conduct further research to explore additional factors or to validate findings in different educational contexts or datasets.
