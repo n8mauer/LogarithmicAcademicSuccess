@@ -17,19 +17,14 @@ https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-stu
 2. **Feature Identification and Preparation**: Key factors influencing academic success, such as study hours and attendance, are identified and prepared. Interaction terms are created to capture the combined effects of multiple factors.
 3. **Model Training**: Linear regression models are trained on log-transformed data to understand the elasticities and interaction effects among variables.
 
-
 #### Results
 Upon analysis of the coefficients to understand the relationships, I found that coefficients represent elasticities; and, the intercept represents the expected log of academic success when all log-transformed factors are zero (which corresponds to the multiplicative constant in the original non-logarithmic scale). The insights gained from analysis can help in understanding how various factors combine and contribute to academic success in a non-linear, multiplicative manner, providing a more nuanced understanding that can inform targeted interventions and support strategies.
-
-#### Next steps
-What suggestions do you have for next steps?
 
 #### Outline of project
 
 - [Link to notebook 1]()
-
-
-#### Further Information
+- 
+#### Next steps
 **Model Validation:**
 Validate the model using cross-validation techniques to ensure robustness.
 Compare the performance of the log-log model with other models, such as polynomial regression or non-linear models.
