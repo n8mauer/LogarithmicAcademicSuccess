@@ -13,7 +13,7 @@ Economic factors play a significant role in dropout rates. Financial instability
 These trends highlight the complexity of the dropout issue, influenced by economic, institutional, and demographic factors. This data underscores the need for targeted interventions to support at-risk student populations and improve overall graduation rates.
 
 ### Research Question
-Can an undergraduate student’s academic success be predicted based on several factors using Log-Log or Power-Log relationships?
+Can an undergraduate student’s academic success be predicted based on several factors using log-log or power-log relationships?
 
 ### Data Source
 The data can be found here: [Kaggle Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention).
