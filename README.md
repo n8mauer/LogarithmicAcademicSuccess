@@ -1,6 +1,6 @@
 ## Predicting Undergraduate Academic Success
 
-### Executive summary
+### Executive Summary
 This project aims to predict undergraduate student academic success based on several factors using log-log and power-log relationships. By utilizing the “Predict students' dropout and academic success” dataset from Kaggle, the analysis focuses on preprocessing data with logarithmic transformations to capture non-linear and multiplicative effects. The power-log relationship y = ax^b transforms to log(y) = log(a) + blog(x), enabling the application of linear regression on log-transformed variables.
 
 ### Rationale
@@ -32,11 +32,13 @@ The dataset offers an overview of students enrolled in various undergraduate pro
 ### Results
 Upon analysis of the coefficients to understand the relationships, I found that coefficients represent elasticities; and, the intercept represents the expected log of academic success when all log-transformed factors are zero (which corresponds to the multiplicative constant in the original non-logarithmic scale). The insights gained from analysis can help in understanding how various factors combine and contribute to academic success in a non-linear, multiplicative manner, providing a more nuanced understanding that can inform targeted interventions and support strategies.
 
-### Outline of project
+### Outline of Project
 
-- [notebook](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
+- [Dataset Regime](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
+- [Exploratory Data Analysis](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
+- [Notebook](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
 
-### Next steps
+### Next Steps
 **Model Validation:**
 Validate the model using cross-validation techniques to ensure robustness.
 Compare the performance of the log-log model with other models, such as polynomial regression or non-linear models.
