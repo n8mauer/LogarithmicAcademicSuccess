@@ -1,7 +1,7 @@
 ## Predicting Undergraduate Academic Success
 
 ### Executive summary
-This project aims to predict undergraduate student academic success based on several factors using log-log and power-log relationships. By utilizing the “Predict students' dropout and academic success” dataset from Kaggle, the analysis focuses on preprocessing data with logarithmic transformations to capture non-linear and multiplicative effects. The power-log relationship \( y = ax^b \) transforms to \( \log(y) = \log(a) + b\log(x) \), enabling the application of linear regression on log-transformed variables.
+This project aims to predict undergraduate student academic success based on several factors using log-log and power-log relationships. By utilizing the “Predict students' dropout and academic success” dataset from Kaggle, the analysis focuses on preprocessing data with logarithmic transformations to capture non-linear and multiplicative effects. The power-log relationship y = ax^b transforms to log(y) = log(a) + blog(x), enabling the application of linear regression on log-transformed variables.
 
 ### Rationale
 This project leverages machine learning to provide a nuanced understanding of the factors affecting academic success, enabling the development of effective and intentional educational strategies to populations that could be in need of additional resources.
