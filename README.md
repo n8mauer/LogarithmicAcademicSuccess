@@ -35,7 +35,7 @@ Upon analysis of the coefficients to understand the relationships, I found that 
 ### Outline of Project
 
 - [Dataset Regime](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
-- [Exploratory Data Analysis](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
+- [Exploratory Data Analysis](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Exploratory%20Data%20Analysis.ipynb)
 - [Notebook](https://github.com/n8mauer/LogarithmicAcademicSuccess/blob/main/Capstone%20File.ipynb)
 
 ### Next Steps
