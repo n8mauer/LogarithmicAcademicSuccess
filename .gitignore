@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Cached dataset download (see tests/test_acceptance.py and demo.py)
+data/
